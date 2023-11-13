@@ -1,6 +1,4 @@
 import random
-
-
 def randomNumberGenerator(min, max):
     """
     This function returns a random integer between received 2 numbers
